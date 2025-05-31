@@ -19,7 +19,7 @@ A modern and intuitive mobile application built with **React Native** and **Expo
 ## 📱 App Screenshots
 
 ### 🏠 Home Screen  
-![Home Screen](./assets/screenshots/home.png)
+![Home Screen](./assets/images/home.jpg)
 
 ### ➕ Add Expense  
 ![Add Expense](./assets/screenshots/add-expense.png)
