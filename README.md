@@ -25,7 +25,7 @@ A modern and intuitive mobile application built with **React Native** and **Expo
 ![Add Expense](./assets/screenshots/addexpense.jpg)
 
 ### 📋 View Expenses  
-![View Expenses](./assets/screenshots/viewexpenses.jpg)
+![View Expenses](./assets/screenshots/viewexpense.jpg)
 
 ### 📈 Analytics  
 ![Analytics](./assets/screenshots/analytics.jpg)
