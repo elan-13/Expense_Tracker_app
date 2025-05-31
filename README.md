@@ -19,13 +19,13 @@ A modern and intuitive mobile application built with **React Native** and **Expo
 ## 📱 App Screenshots
 
 ### 🏠 Home Screen  
-![Home Screen](D:\INTERN\Assignment\Lc_corporate\Expense_Tracker\assets\addexpense.jpg)
+![Home Screen](./assets/screenshots/home.png)
 
 ### ➕ Add Expense  
-![Add Expense](./assets/screenshots/add-expense.png)
+![Add Expense](./assets/screenshots/addexpense.png)
 
 ### 📋 View Expenses  
-![View Expenses](./assets/screenshots/view-expenses.png)
+![View Expenses](./assets/screenshots/viewexpenses.png)
 
 ### 📈 Analytics  
 ![Analytics](./assets/screenshots/analytics.png)
